@@ -1,11 +1,6 @@
-My personalised readme.md on my profile (default text left below)
+Hello and welcome to my GitHub profile! I upload code, results and reports for various personal and university projects here, with a focus on quantitative finance, machine learning and deep learning/AI.
 
-
-- 👋 Hi, I’m @OliverC1232
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Oliver
 
 <!---
 OliverC1232/OliverC1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
